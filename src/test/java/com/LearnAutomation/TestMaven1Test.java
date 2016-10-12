@@ -18,7 +18,7 @@ public class TestMaven1Test {
 		driver=new FirefoxDriver();
 		driver.get("https://www.facebook.com/");
 		System.out.println("Hello World");
-		
+		System.out.println("Hello");
 	}
 	
 	
