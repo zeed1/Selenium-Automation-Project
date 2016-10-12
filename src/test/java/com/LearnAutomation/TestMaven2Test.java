@@ -15,6 +15,8 @@ public class TestMaven2Test {
 		
 		System.out.println("World");
 		
+		System.out.println("World");
+		
 		
 	}
 
